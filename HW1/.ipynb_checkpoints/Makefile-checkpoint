@@ -1,0 +1,16 @@
+CXX = g++
+CXXFLAGS	= -std=c++11 -Wall
+
+all: main
+
+clean:
+	rm Player.o Maze.o main
+
+maze: Player.o Maze.o main.cpp
+	$(CXX) $(CXXFLAGS) main.cpp Player.o Maze.o -o main
+
+Player.o: Player.cpp
+	$(CXX) $(CXXFLAGS) -c Player.cpp
+
+Maze.o: Maze.cpp
+	$(CXX) $(CXXFLAGS) -c Maze.cpp

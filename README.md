@@ -1,2 +1,4 @@
-# Programming-Projects-C
-My Programming Projects from a University of Colorado Boulder class 
+# CSCI_3010_mywork-
+This repo serves as a backup/commit zone for myself. Really only exists to back up my code for later, just in case something goes catastrophically wrong...
+
+Make sure this stays private - don't want anyone trying to steal my work... 
