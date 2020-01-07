@@ -1,5 +1,6 @@
-# ABOUT 
-This repo is a showcase of various in-class and out-of-class in C++ programming projects for a University of Colorado Boulder programming class. I'm making this public to showcase my C++ skills and use of design patterns + good commenting. 
+# C++ Programming Projects 
+## ABOUT 
+This repo is a showcase of various in-class and out-of-class in C++ programming projects for an upper-division University of Colorado Boulder computer science programming class. I'm making this public to showcase my C++ skills, as well as use of design patterns + good commenting throughout. Please feel free to run and compile these projects if you'd like to see them in action. 
 
 
 **The bast showcases of my work are in the HW1, HW2, HW3, and QT directories.*
