@@ -9,10 +9,10 @@ use a slider to adjust the speed. The game will change color over time, and the 
 * **HW5** - Advanced Connect Four - This is a game of Connect Four that I created, designed, and developed for my final project. Players
 alternate between turns in a standard game of *Connect Four*, however, they also have powerups and special converter pieces they can use!!
 This was perhaps the largest and most in-depth C++ project I've ever done. It features various design patterns including: 
- * Object Oriented Design
- * Object Inheritence
- * Event-based programming via QT 
- * Complex layers of pointers and objectification
- * Static variables + functions
- * Vectors, Arrays
+   * Object Oriented Design
+   * Object Inheritence
+   * Event-based programming via QT 
+   * Complex layers of pointers and objectification
+   * Static variables + functions
+   * Vectors, Arrays
 
