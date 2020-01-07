@@ -8,7 +8,7 @@ Please note the use of comments, and good C++ design pracitices throughout. Most
 
 
 
-*(I've expunged the name + details of the assignments, as well as some personal info from this repo. This so that other people currently taking the class won't steal my code.)*
+*(I've expunged the name + details of the assignments, as well as some personal info from all the code this repo. This so that other people currently taking the class won't steal my code and claim it as their own.)*
 
 
 
