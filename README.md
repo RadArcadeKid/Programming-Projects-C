@@ -1,4 +1,14 @@
-# CSCI_3010_mywork-
-This repo serves as a backup/commit zone for myself. Really only exists to back up my code for later, just in case something goes catastrophically wrong...
+# ABOUT 
+This repo is a showcase of various in-class and out-of-class in C++ programming projects for a University of Colorado Boulder programming class. I'm making this public to showcase my C++ skills and use of design patterns + good commenting. 
 
-Make sure this stays private - don't want anyone trying to steal my work... 
+
+**The bast showcases of my work are in the HW1, HW2, HW3, and QT directories.*
+Please note the use of comments, and good C++ design pracitices throughout. Most of these were learning exercises, but they took me a lot of hard work and a long time to figure out. 
+
+
+
+*(I've expunged the name + details of the assignments, as well as some personal info from this repo. This so that other people currently taking the class won't steal my code.)*
+
+
+
+#### Recruiters, feel free to stay a while ;) 
