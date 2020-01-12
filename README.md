@@ -6,8 +6,7 @@ This repo is a showcase of various in-class and out-of-class in C++ programming 
 Please note the use of comments, and good C++ design pracitices throughout. Most of these were learning exercises, but they took me a lot of hard work and a long time to figure out. 
 
 
-*(I've expunged the name + details of the assignments, as well as some personal info from all the code this repo. This so that other people currently taking the class won't plagerize my code.)*
+*(I've expunged the name + details of the assignments, as well as some personal info from all the code this repo. This so that other people currently taking the class won't plagerize and/or steal my code.)*
 
 
 
-#### Recruiters, feel free to stay a while ;) 
