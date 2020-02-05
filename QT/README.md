@@ -2,7 +2,7 @@
 These Projects were large homework assignments designed for a software known as QT: CREATOR, a C++ Application Development Tool. 
 They will **only run** if built + ran in the QT environment engine, and are not executable files (yet). They can be 
 
-* **HW4 - Life** - This is a fully-fledged application of *Conway's Game of Life*, which simulates cells in an evnironment. This program 
+* **HW4 - Life** - This is a fully-fledged application of *Conway's Game of Life*, which simulates cells in an environment. This program 
 draws the cells using QGraphics items and will update/change based on time and how many times the user "steps" forward. The player can also
 use a slider to adjust the speed. The game will change color over time, and the graph populates the population. 
 
